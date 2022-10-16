@@ -102,13 +102,8 @@ footer {
     cursor: pointer;
 }
 .card-four_container:hover {
-    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
-    transform: translate3d(0, 0, 0);
-    backface-visibility: hidden;
-    perspective: 1000px;
+    animation: shake 1s;
   }
-  
-  
 @keyframes shake {
     0% { transform: rotate(0deg); }
     25% { transform: rotate(5deg); }
