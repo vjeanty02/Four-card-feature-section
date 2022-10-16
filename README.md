@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot (14)](https://user-images.githubusercontent.com/61328054/196051300-66dba1e2-4155-4033-a24f-bb9f2982eaa5.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-8DFJyqh5ry)
+- Live Site URL: [Github](https://vjeanty02.github.io/Four-card-feature-section/)
 
 ## My process
 
@@ -38,8 +38,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
